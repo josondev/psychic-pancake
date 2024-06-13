@@ -1,2 +1,2 @@
 # psychic-pancake
-contains solutions for the pope exams held in IITM BSc DATA SCIENCE
+contains solutions for the OPPE exams held in IITM BSc DATA SCIENCE
